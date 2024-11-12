@@ -12,9 +12,11 @@ screen -r dria
 rm -rf dkn-compute-node
   ```
   güncelleme
+   
     ```console
 sudo apt update && sudo apt upgrade -y
   ```
+ 
   ```console
 curl -fsSL https://ollama.com/install.sh | sh
 ```
