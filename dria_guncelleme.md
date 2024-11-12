@@ -11,16 +11,15 @@ screen -r dria
   ```console
 rm -rf dkn-compute-node
   ```
+ 
   güncelleme
    
-    ```console
+```console
 sudo apt update && sudo apt upgrade -y
-
-  ```
+```
  
-  ```console
+```console
 curl -fsSL https://ollama.com/install.sh | sh
-
  ```
 
   Dria kurulumu
